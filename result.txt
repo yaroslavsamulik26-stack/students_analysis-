@@ -1,0 +1,5 @@
+Average score among all:
+ math: 67.8
+ python: 67.9
+ english 67.9
+ the best student: Оксана Олійник (97.0)
